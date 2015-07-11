@@ -1,10 +1,11 @@
 html, body {
-	background: #f5c9c9;
-	font-family: 'Lato', sans-serif;
+	background: #33FFAD;
+	
 	color: #6C6B6B;
 	margin: 0px;
 	padding: 0px;
 	overflow-x: hidden;
+	font-family: 'Lobster', cursive;
 }
 
 h1 {
@@ -24,7 +25,7 @@ p {
 	overflow: auto;
 	display: block;
 	clear:both;
-	background: #F2D02B;
+	background: #3399FF;
 }
 
 .inner{
@@ -64,12 +65,12 @@ ul.menu li  a {
 	color: #fff;
 	padding: 20px;
 	display: block;
-	border-bottom: solid 5px #F2D02B;
+	border-bottom: solid 5px #99FF33;
 }
 
 ul.menu li  a.selected {
-	background: #E0C128;
-	border-bottom: solid 5px #FF005B;
+	background: #0066FF;
+	border-bottom: solid 5px #99FF33;
 }
 
 
